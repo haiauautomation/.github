@@ -2,9 +2,9 @@
 
 Đào tạo **PLC Rockwell Allen-Bradley** và **HMI** cho kỹ sư tự động hóa tại Việt Nam.
 
-🌐 Website: https://haiauautomation.com
-▶️ YouTube: https://www.youtube.com/@HaiAuAutomation
-📘 Facebook: https://www.facebook.com/HaiAuAutomation
+- 🌐 Website: https://haiauautomation.com
+- ▶️ YouTube: https://www.youtube.com/@HaiAuAutomation
+- 📘 Facebook: https://www.facebook.com/HaiAuAutomation
 
 ## 🛠 Công cụ miễn phí
 | Công cụ | Mô tả |
